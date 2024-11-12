@@ -17,7 +17,7 @@ Create a Python script to analyze the financial records of a company. A financia
 
 - Your analysis should align with the following results:
 
-      Financial Analysis
+      <ins> Financial Analysis </ins>
 
       Total Months: 86
 
