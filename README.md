@@ -17,18 +17,19 @@ Create a Python script to analyze the financial records of a company. A financia
 
 - Your analysis should align with the following results:
 
-**Financial Analysis**
-Total Months: 86
+      **Financial Analysis**
 
-Total: $22564198
+      Total Months: 86
 
-Average Change: $-8311.11
+      Total: $22564198
 
-Greatest Increase in Profits: Aug-16 ($1862002)
+      Average Change: $-8311.11
 
-Greatest Decrease in Profits: Feb-14 ($-1825558)
+      Greatest Increase in Profits: Aug-16 ($1862002)
 
-In addition, your final script should both print the analysis to the terminal and export a text file with the results.
+      Greatest Decrease in Profits: Feb-14 ($-1825558)
+
+      In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
 ## PyPoll Instructions
 In this Challenge, you are tasked with helping a small, rural town modernize its vote-counting process.
