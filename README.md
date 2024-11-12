@@ -17,7 +17,7 @@ Create a Python script to analyze the financial records of a company. A financia
 
 - Your analysis should align with the following results:
 
-      **Financial Analysis**
+      #### Financial Analysis
 
       Total Months: 86
 
@@ -29,7 +29,6 @@ Create a Python script to analyze the financial records of a company. A financia
 
       Greatest Decrease in Profits: Feb-14 ($-1825558)
 
-      In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
 ## PyPoll Instructions
 In this Challenge, you are tasked with helping a small, rural town modernize its vote-counting process.
