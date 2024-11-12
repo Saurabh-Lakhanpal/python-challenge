@@ -1,6 +1,7 @@
 # python-challenge
 
-### PyBank Instructions
+### PyBank challenge Instructions
+
 Create a Python script to analyze the financial records of a company. A financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
 
 1. Create a Python script that analyzes the records to calculate each of the following values:
@@ -15,8 +16,10 @@ Create a Python script to analyze the financial records of a company. A financia
 
 - The greatest decrease in profits (date and amount) over the entire period
 
-- Your Financial Analysis should align with the following results:
+- Your Analysis should align with the following results:
 
+      Financial Analysis
+      -------------------------
       Total Months: 86
 
       Total: $22564198
@@ -28,31 +31,30 @@ Create a Python script to analyze the financial records of a company. A financia
       Greatest Decrease in Profits: Feb-14 ($-1825558)
 
 
-## PyPoll Instructions
-In this Challenge, you are tasked with helping a small, rural town modernize its vote-counting process.
+### PyPoll challenge Instructions
 
-You will be given a set of poll data called election_data.csv. The dataset is composed of three columns: "Voter ID", "County", and "Candidate". Your task is to create a Python script that analyzes the votes and calculates each of the following values:
+Help a small, rural town modernize its vote-counting process.
+Given a set of poll data called election_data.csv. The dataset is composed of three columns: "Voter ID", "County", and "Candidate". Your task is to create a Python script that analyzes the votes and calculates each of the following values:
 
-The total number of votes cast
+- The total number of votes cast
 
-A complete list of candidates who received votes
+- A complete list of candidates who received votes
 
-The percentage of votes each candidate won
+- The percentage of votes each candidate won
 
-The total number of votes each candidate won
+- The total number of votes each candidate won
 
-The winner of the election based on popular vote
+- The winner of the election based on popular vote
 
-Your analysis should align with the following results:
+- Your analysis should align with the following results:
 
-Election Results
--------------------------
-Total Votes: 369711
--------------------------
-Charles Casper Stockham: 23.049% (85213)
-Diana DeGette: 73.812% (272892)
-Raymon Anthony Doane: 3.139% (11606)
--------------------------
-Winner: Diana DeGette
--------------------------
-In addition, your final script should both print the analysis to the terminal and export a text file with the results.
+        Election Results
+        -------------------------
+        Total Votes: 369711
+        -------------------------
+        Charles Casper Stockham: 23.049% (85213)
+        Diana DeGette: 73.812% (272892)
+        Raymon Anthony Doane: 3.139% (11606)
+        -------------------------
+        Winner: Diana DeGette
+        -------------------------
