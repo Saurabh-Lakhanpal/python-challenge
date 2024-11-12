@@ -15,9 +15,7 @@ Create a Python script to analyze the financial records of a company. A financia
 
 - The greatest decrease in profits (date and amount) over the entire period
 
-- Your analysis should align with the following results:
-
-      <ins> Financial Analysis </ins>
+- Your Financial Analysis should align with the following results:
 
       Total Months: 86
 
