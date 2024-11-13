@@ -26,17 +26,10 @@ with open(budget_data,'r') as financial_data:
 
     reader = csv.reader(financial_data, delimiter=",")
 
-    # Skip the header row
-    header = next(reader)
-
     #print(f"Header: {header}")
     # This prints -->> Header: Date, Profit/Losses
-
-    # Extract first row to avoid appending to net_change_list
-    next(reader)
-
-    # Track the total and net change
-    
+    # # Skip the header row
+    header = next(reader)
 
     # Process each row of data
     for row in reader:
