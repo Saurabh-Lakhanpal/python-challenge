@@ -2,7 +2,7 @@
 
 ### Solution 
 - Pybank - [code](https://github.com/Saurabh-Lakhanpal/python-challenge/blob/main/PyBank/main_PyBanksolution.py) | [output](https://github.com/Saurabh-Lakhanpal/python-challenge/blob/main/PyBank/analysis/budget_analysis.txt)</br>
-- PyPoll - [code](https://github.com/Saurabh-Lakhanpal/python-challenge/blob/main/PyPoll/main_PyPollSolution.py) | [output]()
+- PyPoll - [code](https://github.com/Saurabh-Lakhanpal/python-challenge/blob/main/PyPoll/main_PyPollSolution.py) | [output](https://github.com/Saurabh-Lakhanpal/python-challenge/blob/main/PyPoll/analysis/election_analysis.txt)
 
 ## PyBank challenge Instructions
 
