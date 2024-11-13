@@ -1,6 +1,8 @@
 # python-challenge
 
-## Solution - [PyBank](https://github.com/Saurabh-Lakhanpal/python-challenge/blob/main/PyBank/main_PyBanksolution.py) | PyPoll
+## Solution:
+Pybank - [code](https://github.com/Saurabh-Lakhanpal/python-challenge/blob/main/PyBank/main_PyBanksolution.py) | [Output](https://github.com/Saurabh-Lakhanpal/python-challenge/blob/main/PyBank/analysis/budget_analysis.txt)
+PyPoll - [code] () | [Output]()
 
 ### PyBank challenge Instructions
 
