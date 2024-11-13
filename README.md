@@ -1,7 +1,8 @@
 # python-challenge
 
-### Solution - Pybank - [code](https://github.com/Saurabh-Lakhanpal/python-challenge/blob/main/PyBank/main_PyBanksolution.py) | [output](https://github.com/Saurabh-Lakhanpal/python-challenge/blob/main/PyBank/analysis/budget_analysis.txt)</br>
-### Solution - PyPoll - [code]() | [Output]()
+### Solution 
+- Pybank - [code](https://github.com/Saurabh-Lakhanpal/python-challenge/blob/main/PyBank/main_PyBanksolution.py) | [output](https://github.com/Saurabh-Lakhanpal/python-challenge/blob/main/PyBank/analysis/budget_analysis.txt)</br>
+- PyPoll - [code]() | [Output]()
 
 # PyBank challenge Instructions
 
