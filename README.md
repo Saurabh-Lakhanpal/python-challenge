@@ -1,10 +1,10 @@
-# python-challenge
+# Python-challenge
 
 ### Solution 
 - Pybank - [code](https://github.com/Saurabh-Lakhanpal/python-challenge/blob/main/PyBank/main_PyBanksolution.py) | [output](https://github.com/Saurabh-Lakhanpal/python-challenge/blob/main/PyBank/analysis/budget_analysis.txt)</br>
 - PyPoll - [code]() | [output]()
 
-# PyBank challenge Instructions
+## PyBank challenge Instructions
 
 Create a Python script to analyze the financial records of a company. A financial dataset called [budget_data.csv](https://github.com/Saurabh-Lakhanpal/python-challenge/blob/main/Starter_Code/PyBank/Resources/budget_data.csv). The dataset is composed of two columns: "Date" and "Profit/Losses".
 
@@ -35,7 +35,7 @@ Create a Python script to analyze the financial records of a company. A financia
       Greatest Decrease in Profits: Feb-14 ($-1825558)
 
 
-### PyPoll challenge Instructions
+## PyPoll challenge Instructions
 
 Help a small, rural town modernize its vote-counting process.
 Given a set of poll data called [election_data.csv](https://github.com/Saurabh-Lakhanpal/python-challenge/blob/main/Starter_Code/PyPoll/Resources/election_data.csv). The dataset is composed of three columns: "Voter ID", "County", and "Candidate". Your task is to create a Python script that analyzes the votes and calculates each of the following values:

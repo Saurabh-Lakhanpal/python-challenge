@@ -1,6 +1,3 @@
-# -*- coding: UTF-8 -*-
-"""PyBank Homework Starter File."""
-
 # Dependencies
 import csv
 import os
@@ -25,9 +22,10 @@ profit_loss_change = 0
 with open(budget_data,'r') as financial_data:
 
     reader = csv.reader(financial_data, delimiter=",")
-
+    
+    # This prints the Header: Date, Profit/Losses
     #print(f"Header: {header}")
-    # This prints -->> Header: Date, Profit/Losses
+
     # # Skip the header row
     header = next(reader)
 
