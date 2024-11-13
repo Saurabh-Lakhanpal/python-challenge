@@ -1,11 +1,10 @@
 # python-challenge
 
-## Solution:
-### Pybank - [code](https://github.com/Saurabh-Lakhanpal/python-challenge/blob/main/PyBank/main_PyBanksolution.py) | [output](https://github.com/Saurabh-Lakhanpal/python-challenge/blob/main/PyBank/analysis/budget_analysis.txt)
-
+### Solution:
+### Pybank - [code](https://github.com/Saurabh-Lakhanpal/python-challenge/blob/main/PyBank/main_PyBanksolution.py) | [output](https://github.com/Saurabh-Lakhanpal/python-challenge/blob/main/PyBank/analysis/budget_analysis.txt)</br>
 ### PyPoll - [code]() | [Output]()
 
-### PyBank challenge Instructions
+## PyBank challenge Instructions
 
 Create a Python script to analyze the financial records of a company. A financial dataset called [budget_data.csv](https://github.com/Saurabh-Lakhanpal/python-challenge/blob/main/Starter_Code/PyBank/Resources/budget_data.csv). The dataset is composed of two columns: "Date" and "Profit/Losses".
 
